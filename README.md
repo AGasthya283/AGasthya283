@@ -138,7 +138,7 @@ focus:      [ Computer Vision, Multi-Object Tracking, Real-Time Inference,
 
 <br/><br/>
 
-<img src="https://ghchart.rshah.org/36BCF7/AGasthya283" width="92%" alt="contribution chart"/>
+<img src="https://ghchart.rshah.org/AGasthya283" width="92%" alt="contribution chart"/>
 
 </div>
 
