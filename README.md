@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=800&color=36BCF7&center=true&vCenter=true&width=760&lines=Production+AI+at+scale%3A+10M%2B+camera+streams;Multi-Object+Tracking+%C2%B7+Video+Understanding;GenAI%2C+LLMs%2C+VLMs+and+Agentic+Systems;M.Tech+Applied+Mathematics+%E2%80%94+DIAT-DRDO" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=800&color=36BCF7&center=true&vCenter=true&width=760&lines=Production+AI+at+scale%3A+6-8M+images+per+month;Multi-Object+Tracking+%C2%B7+Video+Understanding;GenAI%2C+LLMs%2C+VLMs+and+Agentic+Systems;M.Tech+Applied+Mathematics+%E2%80%94+DIAT-DRDO" alt="typing"/>
 </p>
 
 <p align="center">
@@ -26,11 +26,11 @@
 <!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
 ## 🧭 About
 
-> **AI/ML Engineer with 3+ years** building Computer Vision, GenAI/LLM and MLOps systems that run in production — **10M+ camera streams** and **6–8M images/month**. I work where applied mathematics meets real-time perception: trackers, filters and transformers that have to hold latency budgets, not just benchmarks.
+> **AI/ML Engineer with 3+ years** building Computer Vision, GenAI/LLM and MLOps systems that run in production — **6–8M images/month** across **147+ categories** in live city deployments. I work where applied mathematics meets real-time perception: trackers, filters and transformers that have to hold latency budgets, not just benchmarks.
 
 ```yaml
 name:       Agasthya Omkumar
-role:       AI/ML Engineer — ML Systems Optimization @ Matrice AI
+role:       AI/ML Engineer — Computer Vision · GenAI · MLOps
 location:   Bengaluru, Karnataka, India
 education:
   - M.Tech, Applied Mathematics — DIAT (DRDO)   # CGPA 8.26
@@ -53,8 +53,8 @@ ask-me-about: [ DeepSORT · ByteTrack · StrongSORT, Kalman filters, HMMs,
 </td><td width="50%" valign="top">
 
 **📈 Production impact**
-- **10M+** camera streams served in real time
 - **6–8M** images/month across **147+** violation categories
+- **0.6 mAP** urban scene segmentation on EMT-Data and IDD
 - **+47%** mean precision & recall via synthetic data generation
 - **−64%** dataset curation effort through automated annotation
 - **ID-switches to near-zero** with AIS–video sensor fusion
@@ -125,12 +125,7 @@ timeline
     2021 : Program Analyst Trainee — Cognizant
     2023 : Project Trainee, CV & Autonomous Systems — CAIR-DRDO
     2024 : AI Engineer — CamCom (Visual AI for Public Safety)
-    2026 : AI/ML Engineer, ML Systems Optimization — Matrice AI
 ```
-
-### 🔹 AI/ML Engineer — ML Systems Optimization · **Matrice AI**
-`May 2026 – Present` · Bengaluru, KA
-> Real-time video analytics at scale — inference pipelines, streaming throughput and multi-model GPU serving.
 
 ### 🔹 AI Engineer · **CamCom** (Visual AI for Public Safety)
 `Oct 2024 – Apr 2026` · Bengaluru, KA
@@ -160,7 +155,6 @@ timeline
 
 | Project | What it does | Stack |
 |---|---|---|
-| **Zero-Copy Video Inference Pipeline** | Shared-memory frame-buffer pool with reference-counted lease/return semantics and seqlock concurrency for zero-copy flow across decode → inference → postprocessing, with graceful fallback on pool saturation | C++ · CUDA · SHM |
 | [**Multi-Object Tracking Toolkit**](https://github.com/AGasthya283/Multi-Object-Tracking) | YOLOv8 detection + DeepSORT/ByteTrack association + monocular depth cues, with a Streamlit dashboard for real-time tracker comparison | YOLOv8 · DeepSORT · ByteTrack · OpenCV |
 | [**Multi-Object-Tracking-Cpp**](https://github.com/AGasthya283/Multi-Object-Tracking-Cpp) | The same tracking stack rebuilt in C++ for real-time throughput | C++ · OpenCV |
 | **Vittiya Anveshak** — *Financial Anomaly Detection* | Fund-trail analysis platform using **HMMs** with hierarchical, regime-switching and **Hidden Semi-Markov** extensions to detect irregular fund flows; augmented sparse labels with CTGAN synthetic transactions · **Finalist, KAVACH 2023 — Top 5 of 3,900** | Flask · HMM · CTGAN |
