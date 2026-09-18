@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=800&color=36BCF7&center=true&vCenter=true&width=760&lines=Production+AI+at+scale%3A+6-8M+images+per+month;Multi-Object+Tracking+%C2%B7+Video+Understanding;GenAI%2C+LLMs%2C+VLMs+and+Agentic+Systems;M.Tech+Applied+Mathematics+%E2%80%94+DIAT-DRDO" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=800&color=36BCF7&center=true&vCenter=true&width=760&lines=Computer+Vision+%C2%B7+GenAI+%C2%B7+MLOps;Multi-Object+Tracking+%C2%B7+Video+Understanding;GenAI%2C+LLMs%2C+VLMs+and+Agentic+Systems;M.Tech+Applied+Mathematics+%E2%80%94+DIAT-DRDO" alt="typing"/>
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 <!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
 ## 🧭 About
 
-> **AI/ML Engineer with 3+ years** building Computer Vision, GenAI/LLM and MLOps systems that run in production — **6–8M images/month** across **147+ categories** in live city deployments. I work where applied mathematics meets real-time perception: trackers, filters and transformers that have to hold latency budgets, not just benchmarks.
+> **AI/ML Engineer with 3+ years** building Computer Vision, GenAI/LLM and MLOps systems that run in production. I work where applied mathematics meets real-time perception: trackers, filters and transformers that have to hold latency budgets, not just benchmarks.
 
 ```yaml
 name:       Agasthya Omkumar
