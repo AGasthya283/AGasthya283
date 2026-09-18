@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=800&color=36BCF7&center=true&vCenter=true&width=760&lines=Computer+Vision+%C2%B7+GenAI+%C2%B7+MLOps;Multi-Object+Tracking+%C2%B7+Video+Understanding;GenAI%2C+LLMs%2C+VLMs+and+Agentic+Systems;Masters+in+Applied+Mathematics" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=800&color=36BCF7&center=true&vCenter=true&width=760&lines=Computer+Vision+%C2%B7+GenAI+%C2%B7+MLOps;Multi-Object+Tracking+%C2%B7+Video+Understanding;GenAI%2C+LLMs%2C+VLMs+and+Agentic+Systems;Real-Time+Inference+%C2%B7+Model+Optimization" alt="typing"/>
 </p>
 
 <p align="center">
@@ -30,8 +30,7 @@
 ```yaml
 name:       Agasthya Omkumar
 role:       AI/ML Engineer — Computer Vision · GenAI · MLOps
-education:
-  - Masters in Applied Mathematics
+education:  Masters in Applied Mathematics
 focus:      [ Computer Vision, Multi-Object Tracking, Real-Time Inference,
               GenAI / LLMs / VLMs, Model Optimization, MLOps ]
 ```
