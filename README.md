@@ -17,7 +17,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Bengaluru,%20India-203A43?style=flat-square&logo=googlemaps&logoColor=white"/>
   <img src="https://img.shields.io/badge/3%2B%20years-AI%2FML%20Engineering-36BCF7?style=flat-square"/>
-  <img src="https://img.shields.io/badge/29-verified%20credentials-FF6B00?style=flat-square&logo=credly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Verified-credentials-FF6B00?style=flat-square&logo=credly&logoColor=white"/>
   <img src="https://komarev.com/ghpvc/?username=AGasthya283&style=flat-square&color=36BCF7&label=profile+views"/>
 </p>
 
@@ -33,34 +33,12 @@ name:       Agasthya Omkumar
 role:       AI/ML Engineer — Computer Vision · GenAI · MLOps
 location:   Bengaluru, Karnataka, India
 education:
-  - M.Tech, Applied Mathematics — DIAT (DRDO)   # CGPA 8.26
-  - B.E.,   Mechanical Engineering — BNMIT, VTU # CGPA 8.34
+  - M.Tech, Applied Mathematics — DIAT (DRDO)
 focus:      [ Computer Vision, Multi-Object Tracking, Real-Time Inference,
               GenAI / LLMs / VLMs, Model Optimization, MLOps ]
 ask-me-about: [ DeepSORT · ByteTrack · StrongSORT, Kalman filters, HMMs,
                 sensor fusion, RAG pipelines, Triton + CUDA serving ]
 ```
-
-<table>
-<tr><td width="50%" valign="top">
-
-**🏆 Selected results**
-- 🥇 **4th Place (International)** — ICPR 2024 VISTAC Challenge, adaptive visual tracking under fog, rain, low-light and thermal
-- 🛡️ **Finalist, KAVACH 2023** — Top **5 of 3,900** teams, national cybersecurity hackathon
-- 🎓 **Head Volunteer, ICDMAI 2023** — logistics for 100+ participants
-- 🌐 **45+ public repositories** on tracking, filtering and ML optimization
-
-</td><td width="50%" valign="top">
-
-**📈 Production impact**
-- **6–8M** images/month across **147+** violation categories
-- **0.6 mAP** urban scene segmentation on EMT-Data and IDD
-- **+47%** mean precision & recall via synthetic data generation
-- **−64%** dataset curation effort through automated annotation
-- **ID-switches to near-zero** with AIS–video sensor fusion
-
-</td></tr>
-</table>
 
 ---
 
@@ -116,57 +94,6 @@ ask-me-about: [ DeepSORT · ByteTrack · StrongSORT, Kalman filters, HMMs,
 
 ---
 
-<!-- ═══════════════════════════ EXPERIENCE ═══════════════════════════ -->
-## 💼 Experience
-
-```mermaid
-timeline
-    title Career
-    2021 : Program Analyst Trainee — Cognizant
-    2023 : Project Trainee, CV & Autonomous Systems — CAIR-DRDO
-    2024 : AI Engineer — CamCom (Visual AI for Public Safety)
-```
-
-### 🔹 AI Engineer · **CamCom** (Visual AI for Public Safety)
-`Oct 2024 – Apr 2026` · Bengaluru, KA
-- Designed the detection architecture for the **world's largest automated urban safety inspection system** — **6–8M images/month** across **147+ violation categories** in multiple cities.
-- Built foundational **urban scene segmentation** models on EMT-Data and the India Driving Dataset (**0.6 mAP**); added **monocular depth estimation** to filter distant objects and cut false positives.
-- Raised mean precision & recall across all classes by **47%** using **GAN-based synthetic data generation** and negative data mining for rare violation classes.
-- Automated annotation with **Label Studio + SAM2** pre-annotation and GenAI mask refinement — **64% less curation effort** — plus confidence-based active learning with human-in-the-loop escalation.
-- Evaluated and integrated **VLMs (Qwen-VL, GLM-4V)** and LLM reasoning layers for violation explainability, summarization, zero-shot classification and agent-driven analytics.
-- Engineered **geolocation estimation** (camera intrinsics + GPS + GIS) projecting detections into world coordinates for city-level planning; enforced violation rules and **PII protection** with LLM-assisted validation.
-- Maintained the **MLOps stack** (Triton Inference Server, Docker) for vision and multimodal deployment; led OEM defect-detection demos and pilots across India and abroad.
-
-### 🔹 Project Trainee — Computer Vision & Autonomous Systems · **CAIR-DRDO**
-`Aug 2023 – Sep 2024` · Bengaluru, KA
-- Led applied research on **UAV-based Multi-Object Tracking** for maritime surveillance and search & rescue under extreme viewpoint, scale and weather variation.
-- Designed a novel **AIS–video sensor fusion pipeline**, associating Automatic Identification System data with visual detections in real time — **ID-switches to near-zero**, outperforming vision-only tracking.
-- Benchmarked **transformers (ViT, Swin)** against CNN baselines (YOLOv8, Faster R-CNN) with **DeepSORT / ByteTrack**, characterizing accuracy–latency trade-offs on GPU and **Jetson** edge devices.
-- Developed **Kalman filter data association** with adaptive process noise, robustly tracking **15+ simultaneous targets** under sensor dropout and occlusion; contributed to multi-UAV distributed perception.
-
-### 🔹 Program Analyst Trainee · **Cognizant**
-`Mar 2021 – Dec 2021` · Bengaluru, KA
-- Designed and maintained **MySQL** schemas and optimized queries for web and enterprise applications.
-
----
-
-<!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
-## 🚀 Featured Projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| [**Multi-Object Tracking Toolkit**](https://github.com/AGasthya283/Multi-Object-Tracking) | YOLOv8 detection + DeepSORT/ByteTrack association + monocular depth cues, with a Streamlit dashboard for real-time tracker comparison | YOLOv8 · DeepSORT · ByteTrack · OpenCV |
-| [**Multi-Object-Tracking-Cpp**](https://github.com/AGasthya283/Multi-Object-Tracking-Cpp) | The same tracking stack rebuilt in C++ for real-time throughput | C++ · OpenCV |
-| **Vittiya Anveshak** — *Financial Anomaly Detection* | Fund-trail analysis platform using **HMMs** with hierarchical, regime-switching and **Hidden Semi-Markov** extensions to detect irregular fund flows; augmented sparse labels with CTGAN synthetic transactions · **Finalist, KAVACH 2023 — Top 5 of 3,900** | Flask · HMM · CTGAN |
-| [**spatial-temporal-vod**](https://github.com/AGasthya283/spatial-temporal-vod) | From-scratch reimplementation of **TransVOD** (He et al., ACM MM 2021) + Streamlit demo and novice-friendly CV tutorials | PyTorch · Transformers · Streamlit |
-| [**Sign-Language-Video-Recognition**](https://github.com/AGasthya283/Sign-Language-Video-Recognition) | **LRCN (CNN + LSTM)** spatio-temporal model for gesture-to-text video translation | PyTorch · LRCN |
-| [**Monte-Carlo-Simulator**](https://github.com/AGasthya283/Monte-Carlo-Simulator) | Derivative pricing with variance reduction — GBM, Jump Diffusion, Heston | Python · NumPy · SciPy |
-| [**Hidden_Markov_Models**](https://github.com/AGasthya283/Hidden_Markov_Models) | HMMs applied to financial regime detection | Python · hmmlearn |
-| [**Kalman_Filters**](https://github.com/AGasthya283/Kalman_Filters) | Kalman / extended Kalman filtering from first principles | Python · NumPy |
-| [**foodvision-agent**](https://github.com/AGasthya283/foodvision-agent) | Agentic food-vision assistant with retrieval over a local LLM | CrewAI · FAISS · Ollama · Gradio |
-
----
-
 <!-- ═══════════════════════════ STATS ═══════════════════════════ -->
 ## 📊 GitHub Activity
 
@@ -204,7 +131,7 @@ timeline
 ## 🏅 Certifications
 
 <p align="center">
-  <b>29 verified badges</b> from IBM, Coursera and Microsoft ·
+  <b>Badges</b> from IBM, Coursera and Microsoft ·
   <a href="https://www.credly.com/users/agasthya-omkumar/badges"><b>verify on Credly →</b></a>
 </p>
 
