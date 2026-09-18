@@ -123,39 +123,6 @@ focus:      [ Computer Vision, Multi-Object Tracking, Real-Time Inference,
 
 ---
 
-<!-- ═══════════════════════════ STATS ═══════════════════════════ -->
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAGasthya283&query=%24.public_repos&label=PUBLIC%20REPOS&style=for-the-badge&color=36BCF7&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/github/followers/AGasthya283?style=for-the-badge&logo=github&logoColor=white&color=36BCF7&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/AGasthya283?style=for-the-badge&logo=github&logoColor=white&color=FF6B00&label=TOTAL%20STARS"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=AGasthya283&hide_border=true&ring=36BCF7&fire=FF6B00&currStreakLabel=36BCF7&background=0d1117&stroke=36BCF7&sideLabels=c9d1d9&dates=8b949e&sideNums=c9d1d9&currStreakNum=ffffff&excludeDaysLabel=8b949e" alt="streak"/>
-
-<br/><br/>
-
-<img src="https://ghchart.rshah.org/AGasthya283" width="92%" alt="contribution chart"/>
-
-</div>
-
-<!--
-  OPTIONAL — github-readme-stats cards.
-  The public instance (github-readme-stats.vercel.app) is currently PAUSED and
-  github-profile-trophy / github-readme-activity-graph are over their Vercel quota (HTTP 402),
-  so they are left commented out rather than rendering as broken images.
-  To enable: deploy your own instance (https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance),
-  then replace YOUR-INSTANCE below and uncomment.
-
-  <img height="165" src="https://YOUR-INSTANCE.vercel.app/api?username=AGasthya283&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9&bg_color=0d1117"/>
-  <img height="165" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=AGasthya283&layout=compact&langs_count=8&hide_border=true&title_color=36BCF7&text_color=c9d1d9&bg_color=0d1117"/>
--->
-
----
-
 <!-- ═══════════════════════════ CERTIFICATIONS ═══════════════════════════ -->
 ## 🏅 Certifications
 
