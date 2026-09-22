@@ -197,7 +197,7 @@ focus:      [ Computer Vision, Multi-Object Tracking, Real-Time Inference,
 
 <p align="center">
   <a href="https://www.linkedin.com/in/agasthya-omkumar/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logoColor=white"/></a>
-  <a href="mailto:agasthya611@gmail.com"><img src="https://img.shields.io/badge/Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:agasthya.diat22@gmail.com"><img src="https://img.shields.io/badge/Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.credly.com/users/agasthya-omkumar/badges"><img src="https://img.shields.io/badge/Verify%20my%20badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white"/></a>
 </p>
 
