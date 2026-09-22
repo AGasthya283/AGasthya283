@@ -14,12 +14,6 @@
   <a href="https://github.com/AGasthya283"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/3%2B%20years-AI%2FML%20Engineering-36BCF7?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Verified-credentials-FF6B00?style=flat-square&logo=credly&logoColor=white"/>
-  <img src="https://komarev.com/ghpvc/?username=AGasthya283&style=flat-square&color=36BCF7&label=profile+views"/>
-</p>
-
 ---
 
 <!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
