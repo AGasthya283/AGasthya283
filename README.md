@@ -7,13 +7,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=4000&pause=1200&color=36BCF7&center=true&vCenter=true&width=760&lines=Teaching%20equations%20to%20see%2C%20and%20code%20to%20learn%20%F0%9F%A7%A0" alt="typing"/>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/agasthya-omkumar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.credly.com/users/agasthya-omkumar/badges"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/></a>
-  <a href="mailto:agasthya.diat22@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/AGasthya283"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
-
 ---
 
 <!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
